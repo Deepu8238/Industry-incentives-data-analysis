@@ -1,16 +1,9 @@
-# 
+# INDUSTRY INCENTIVE DATA ANALYSIS
+
 
 Brief description of your project - what it does and what problem it solves.
 
-## Features
 
-- Feature 1: Description
-- Feature 2: Description
-- Feature 3: Description
-
-## Demo
-
-[Add screenshots or GIFs of your application here]
 
 ## Installation
 
