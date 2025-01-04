@@ -9,7 +9,7 @@ Brief description of your project - what it does and what problem it solves.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project.git
+  https://github.com/Deepu8238/Industry-incentives-data-analysis
    ```
 
 2. Create and activate a virtual environment:
